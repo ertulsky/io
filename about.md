@@ -5,13 +5,20 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+Hi, I'm Evan Tulsky. I share an interest in robotics, dynamics and controls, and rehabilitative devices. Having admired my father leading cognitive tests for quality of life metrics, I have seen the importance of rehabilitative devices to adress critical problems including physical challenges.
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+![alt text]({{ site.baseurl }}/assets/headshot.jpg "Profile Picture"){:.profile}
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+A little bit about myself
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I'm a huge adventurer, and I love to travel. I've taken numerous trips to Europe visiting close relatives in the Netherlands. Further, I have been fortunate to have lived briefly in Italy and could visit Spain, France, Switzerland, Denmark, England, Czechia, Belgium, Scotland, and Luxembourg. Experiencing diverse cultures has progressed my beliefs on a global scale. I am fortunate to have traveled to Peru, Costa Rica, Curacao and Aruba, Puerto Rico, Mexico, and Israel! Finally, I have seen the diversity of the United States through my conquest to visit every baseball stadium with my father. Admittedly to be able to afford these daring adventures I am a proud Spirit Airlines and hostel traveler.
+
+I value the importance of staying active for improved creativity. I am currently training for my second marathon. To fuel this passion I developed a passion for cooking. Now I cook to experience cultures. 
+
+Between these personable activities, I share an interest in scuba diving, museums, and hiking. I strive for activities that bring me out of my confortable zone. I am in the rudimentary stages of learning Spanish to improve some life goals.
+
+
+
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
