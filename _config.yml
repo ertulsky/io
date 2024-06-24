@@ -10,8 +10,8 @@ exclude:
 
 # Site settings
 title: Evan Tulsky
-subtitle: "Evan Tulsky's Personal Website"
-email: ertulsky@syr.edu
+subtitle: "Projects, experiences, and ideas that developed myself"
+email: ertulsky@syr.edu, ertulsky@gmail.com
 name: Evan Tulsky
 description: >
   A simple yet classy theme for your Jekyll website or blog.
@@ -86,7 +86,7 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: Evan Tulsky
     url: https://www.linkedin.com/in/evan-tulsky/
     desc: Connect with me on LinkedIn
     share: true
