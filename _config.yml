@@ -14,14 +14,14 @@ subtitle: "Projects, experiences, and ideas that developed myself"
 email: ertulsky@syr.edu, ertulsky@gmail.com
 name: Evan Tulsky
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Evan Tulsky
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/syracuse university logo.jpg"
 
 # Build settings
 markdown: kramdown
