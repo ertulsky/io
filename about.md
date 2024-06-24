@@ -20,6 +20,8 @@ I value the importance of staying active for improved creativity. I am currently
 
 Between these personable activities, I share an interest in scuba diving, museums, and hiking. I strive for activities that bring me out of my comfort zone. I am in the rudimentary stages of learning Spanish to improve some life goals.
 
+![alt text]({{ site.baseurl }}/assets/scuba.jpg "Profile Picture"){:.profile}
+
 
 
 
