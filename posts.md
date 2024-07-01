@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Posts"
-permalink: /posts/
+title: "News"
+permalink: /news/
 main_nav: true
 ---
 
