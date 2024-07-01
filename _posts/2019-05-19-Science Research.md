@@ -7,4 +7,4 @@ categories: Projects
 tags: Chemistry
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+This post is in progress. 
