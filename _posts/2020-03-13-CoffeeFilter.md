@@ -11,4 +11,4 @@ tags: Coffee Filtration
 
 > The work explored was intended to be presented at the 2020 Science Research Fair at Rutgers University. Due to the COVID-19 pandemic, research stopped. Thus, preliminary data is presented. 
 
-This is just a dummy post. Lorem ipsum and all the rest.
+This post is in progress. 
