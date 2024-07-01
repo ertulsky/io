@@ -18,10 +18,10 @@ The senior capstone project is composed of 19 company sponsors to solve relevant
 <a href="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone">
   <img src="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" title="2024 ME Capstone Final Project Presentations">
 </a>
-<a href="https://github.com/ertulsky/io/blob/master/assets/posterpresentation_microsoft.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone">
+<a href="https://github.com/ertulsky/io/blob/master/assets/posterpresentation_microsoft.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone1">
   <img src="https://github.com/ertulsky/io/blob/master/assets/posterpresentation_microsoft.jpg" title="2024 ME Capstone Final Poster Presentations">
 </a>
-<a href="https://github.com/ertulsky/io/blob/master/assets/fallpresentation_microsoft.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone">
+<a href="https://github.com/ertulsky/io/blob/master/assets/fallpresentation_microsoft.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone2">
   <img src="https://github.com/ertulsky/io/blob/master/assets/fallpresentation_microsoft.jpg" title="2024 ME Capstone Mid-year Project Presentations">
 </a>
 
