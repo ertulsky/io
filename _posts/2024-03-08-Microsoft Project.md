@@ -18,8 +18,7 @@ Over the course of the academic year 2023-2024, I have helped Microsoft develop 
 The senior capstone project is composed of 19 company sponsors to solve relevant industry problems. Of the year-long company-sponsored project, the team presented at the conclusion of the fall and the spring (final presentation) to a panel of 14 industry expert judges.
 
 <a href="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
-  <img src="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" title="Check out the Falcon 9 from SpaceX">
+  <img src="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" title="2024 ME Capstone Final Project Presentations">,  <img src="https://github.com/ertulsky/io/blob/master/assets/fallpresentation_microsoft.jpg" title="2024 ME Capstone Mid-Year Project Presentations">, <img src="https://github.com/ertulsky/io/blob/master/assets/posterpresentation_microsoft.jpg" title="2024 ME Capstone Poster Presentations">, 
 </a>
-![alt text]({{ site.baseurl }}/assets/fallpresentation_microsoft.jpg "Profile Picture"){:.profile}
 
 More information on the company-sponsored 2024 ME Capstone Final Project Presentations can be found on [Linkedin]((https://www.linkedin.com/feed/update/urn:li:activity:7191762558649851904/)).
