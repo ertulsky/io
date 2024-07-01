@@ -15,4 +15,4 @@ Over the course of the academic year 2023-2024, I have helped Microsoft develop 
   <img src="//bencentra.com/assets/images/falcon9_small.jpg" title="Check out the Falcon 9 from SpaceX">
 </a>
 
-More information on the company-sponsored 2024 ME Capstone Final Project Presentations can be found on [Linkedin]([https://pages.github.com/](https://www.linkedin.com/feed/update/urn:li:activity:7191762558649851904/)).
+More information on the company-sponsored 2024 ME Capstone Final Project Presentations can be found on [Linkedin]((https://www.linkedin.com/feed/update/urn:li:activity:7191762558649851904/)).
