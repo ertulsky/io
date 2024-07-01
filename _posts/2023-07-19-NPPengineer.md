@@ -7,4 +7,6 @@ categories: Projects
 tags: Nuclear Power Plant
 ---
 
-This post is in progress. 
+Participated in various cross departmental activities, training, and exercises. Developed knowledge of nuclear plant operations, nuclear industry standards, and clean energy initiatives.
+•Led and prepared two change modifications apart of operational fleet initiative that will be implemented during the 2024 outage.
+•Performed quality control tasks on nearly 200 engineering change requests.
