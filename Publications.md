@@ -7,7 +7,7 @@ main_nav: true
 Publications in reversed chronological order.
 
 <br/>
-{% include page_divider.html %}
+
 <h6>2024</h6>
 E. Tulsky, N. Rubino, J. Carter, A. Thompson, V. H. Duenas “Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking”, IEEE Conference on Controls Technology and Application, 2024.
 
