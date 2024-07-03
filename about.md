@@ -10,7 +10,7 @@ Hi, I'm Evan Tulsky. I share an interest in robotics, dynamics and controls, and
 
 ![alt text]({{ site.baseurl }}/assets/headshot.jpg "Profile Picture"){:.profile}
 
-A little bit about myself
+<h4>A little bit about myself</h4>
 
 I'm a huge adventurer, and I love to travel. I've taken numerous trips to Europe visiting close relatives in the Netherlands. Further, I have been fortunate to have lived briefly in Italy and could visit Spain, France, Switzerland, Denmark, England, Czechia, Belgium, Scotland, and Luxembourg. Experiencing diverse cultures has progressed my beliefs on a global scale. I am fortunate to have traveled to Peru, Costa Rica, Curacao and Aruba, Puerto Rico, Mexico, and Israel! Finally, I have seen the diversity of the United States through my conquest to visit every baseball stadium with my father. Admittedly to be able to afford these daring adventures I am a proud Spirit Airlines and hostel traveler.
 
