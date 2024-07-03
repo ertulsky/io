@@ -27,4 +27,4 @@ The senior capstone project is composed of 19 company sponsors to solve relevant
 
 
 
-More information on the company-sponsored 2024 ME Capstone Final Project Presentations can be found on [Linkedin]((https://www.linkedin.com/feed/update/urn:li:activity:7191762558649851904/)).
+More information on the company-sponsored 2024 ME Capstone Final Project Presentations can be found on [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7191762558649851904/).
