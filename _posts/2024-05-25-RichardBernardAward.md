@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I have been honored as the Richard A. Bernard Scholar"
-date:   2024-05-20T14:25:52-05:00
+date:   2024-05-25T14:25:52-05:00
 author: Evan Tulsky
 categories: Awards
 tags: Awards
