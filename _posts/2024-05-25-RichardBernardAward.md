@@ -7,6 +7,6 @@ categories: Awards
 tags: Awards
 ---
 
-<a href="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone">
-  <img src="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" title="2024 ME Capstone Final Project Presentations">
+<a href="/assets/Evan Tulsky.pdf" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone">
+  <img src="/assets/Evan Tulsky.pdf" title="2024 ME Capstone Final Project Presentations">
 </a>
