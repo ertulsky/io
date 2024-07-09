@@ -6,5 +6,4 @@ author: Evan Tulsky
 categories: Awards
 tags: Awards
 ---
-
-<a href="/assets/files/richardABernard2024.pdf" data-lightbox="richardbernard" data-title="The Richard A. Bernard Award">Image #1</a>
+![alt text]({{ site.baseurl }}/assets/files/richardABernard2024.pdf "The Richard A. Bernard Award"){:.profile}
