@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/syracuse university logo.jpg"
+logo: "/assets/evanTulsky.png"
 
 # Build settings
 markdown: kramdown
