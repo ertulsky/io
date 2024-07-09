@@ -8,7 +8,7 @@ tags: Nuclear Power Plant
 ---
 
 For the purpose of protected equipment, supplementary images are omitted. As a nuclear power plant engineer intern I have:
-<h3>Unordered List</h3>
+<h3>Accomplishments</h3>
 <ul>
   <li>Participated in various cross-departmental activities, training, and exercises. Developed knowledge of nuclear plant operations, nuclear industry standards, and clean energy initiatives.</li>
   <li>Led and prepared two change modifications apart of operational fleet initiative that will be implemented during the 2024 outage.</li>
