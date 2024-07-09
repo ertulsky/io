@@ -22,9 +22,9 @@ Beyond Europe, I've been fortunate to explore diverse landscapes and cultures in
 Back in the United States, my father and I share a quest to visit every baseball stadium, which has allowed me to witness the rich diversity of our own country. To support my adventures, I proudly embrace a budget-friendly approach, traveling with Spirit Airlines and staying in hostels.
 
 <p align="center">
-<a href="/assets/peru.jpg" data-lightbox="about" data-title="2024 ME Capstone"> <img src="/assets/peru.jpgg"> Click image to view </a>
+<a href="/assets/peru.jpg" data-lightbox="about" data-title="2024 ME Capstone"> <img src="/assets/peru.jpg"> Click image to view </a>
 <a href="/assets/scuba.jpg" data-lightbox="about" data-title="Spring Term Poster Presentation"> </a>
-<a href="/assets/fallpresentation_microsoft.jpg" data-lightbox="about" data-title="Fall Term Presentation"> Image #3</a>
+<a href="/assets/fallpresentation_microsoft.jpg" data-lightbox="about" data-title="Fall Term Presentation"> </a>
 </p>
 
 Staying active fuels my creativity, whether I'm training for marathons or exploring my passion for cooking, which allows me to immerse myself in various cultures through their cuisine. I am currently training for my second marathon in 2024.
