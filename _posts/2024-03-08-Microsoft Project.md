@@ -4,7 +4,7 @@ title:  "I worked to develop bifacial cold plates for high-powered servers with 
 date:   2024-05-14T14:25:52-05:00
 author: Evan Tulsky
 categories: Projects
-tags: Heat Transfer, System Cooling
+tags: ""Heat Transfer"" ""System Cooling""
 cover: "/assets/capstone.jpg"
 ---
  
