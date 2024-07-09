@@ -21,14 +21,15 @@ Beyond Europe, I've been fortunate to explore diverse landscapes and cultures in
 
 Back in the United States, my father and I share a quest to visit every baseball stadium, which has allowed me to witness the rich diversity of our own country. To support my adventures, I proudly embrace a budget-friendly approach, traveling with Spirit Airlines and staying in hostels.
 
-![Peru Adventure]({{ site.baseurl }}/assets/peru.jpg "Peru Adventure"){:.profile}
+<p align="center">
+<a href="/assets/peru.jpg" data-lightbox="about" data-title="2024 ME Capstone"> <img src="/assets/peru.jpgg"> Click image to view </a>
+<a href="/assets/scuba.jpg" data-lightbox="about" data-title="Spring Term Poster Presentation"> </a>
+<a href="/assets/fallpresentation_microsoft.jpg" data-lightbox="about" data-title="Fall Term Presentation"> Image #3</a>
+</p>
 
 Staying active fuels my creativity, whether I'm training for marathons or exploring my passion for cooking, which allows me to immerse myself in various cultures through their cuisine. I am currently training for my second marathon in 2024.
 
 I also enjoy scuba diving, exploring museums, and hiking—activities that push me out of my comfort zone and deepen my understanding of the world. Currently, I'm in the early stages of learning Spanish, driven by personal goals that aim to enhance my experiences and connections.
-
-![Scuba Diving]({{ site.baseurl }}/assets/scuba.jpg "Scuba Diving"){:.profile}
-
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
