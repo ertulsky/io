@@ -5,7 +5,7 @@ date:   2023-07-19T14:25:52-05:00
 author: Evan Tulsky
 categories: Projects
 tags: Nuclear Power Plant
-cover: assets/jamesafitzpatrick.jpg
+cover: /assets/jamesafitzpatrick.jpg
 ---
 
 For the purpose of protected equipment, supplementary images are omitted. As a nuclear power plant engineer intern I have:
