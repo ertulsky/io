@@ -10,7 +10,7 @@ cover: "/assets/capstone.jpg"
  
 Over the course of the academic year 2023-2024, I have helped Microsoft develop innovative cooling techniques for high-powered servers. A proposed bifacial cold plate is designed to increase the operating power from 600w to 1000w. Where traditional methods struggle, a liquid-cooled server offers increased cooling capabilities. Through simulations and testing, the thermal properties of the design are optimized, and materials are chosen with consideration to manufacturing restrictions. Our results show significant temperature reductions, ensuring stable server performance. This innovation offers a promising solution for cooling challenges in modern server systems.
 
-<embed src="/assets/Microsoft Final Poster.pptx" type='application/pptx'/>
+<embed src="/assets/Microsoft Final Poster.pptx" type='application/pdf'/>
 <embed src="/assets/Bifacial Cold plates for High Powered Servers Final Report.pdf" width="300" height="300" type='application/pdf'/>
 
 ### Presentation
