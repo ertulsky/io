@@ -17,6 +17,10 @@ The senior capstone project is composed of 19 company sponsors to solve relevant
 
 ![Peru Adventure]({{ site.baseurl }}/assets/peru.jpg "Peru Adventure"){:.profile}
 
+<a href="assets/capstone.jpg" data-lightbox="capstone" data-title="2024 ME Capstone">Image #1</a>
+<a href="assets/posterpresentation_microsoft.jpg" data-lightbox="capstone">Image #2</a>
+<a href="assets/fallpresentation_microsoft.jpg" data-lightbox="capstone">Image #3</a>
+
 <a href="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone">
   <img src="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" title="2024 ME Capstone Final Project Presentations">
 </a>
