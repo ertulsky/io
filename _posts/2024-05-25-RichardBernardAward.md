@@ -7,6 +7,4 @@ categories: Awards
 tags: Awards
 ---
 
-<a href="/assets/Evan Tulsky.pdf" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone">
-  <img src="/assets/Evan Tulsky.pdf" title="2024 ME Capstone Final Project Presentations">
-</a>
+<a href="/assets/files/richardABernard2024.pdf" data-lightbox="richardbernard" data-title="The Richard A. Bernard Award">Image #1</a>
