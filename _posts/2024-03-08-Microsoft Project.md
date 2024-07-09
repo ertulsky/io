@@ -14,7 +14,7 @@ Over the course of the academic year 2023-2024, I have helped Microsoft develop 
 ### Presentation
 The senior capstone project is composed of 19 company sponsors to solve relevant industry problems. From the year-long company-sponsored project, the team presented at the conclusion of the fall and the spring (final presentation) to a panel of 14 industry expert judges.
 
-<a href="assets/capstone.jpg" data-lightbox="capstone" data-title="2024 ME Capstone">Image #1</a>
+<a href="/assets/fallpresentation_microsoft.jpg" data-lightbox="capstone" data-title="2024 ME Capstone">Image #1</a>
 <a href="assets/posterpresentation_microsoft.jpg" data-lightbox="capstone">Image #2</a>
 <a href="assets/fallpresentation_microsoft.jpg" data-lightbox="capstone">Image #3</a>
 
