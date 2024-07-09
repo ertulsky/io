@@ -7,8 +7,6 @@ categories: Projects
 tags: Heat Transfer, System Cooling
 ---
 cover: "/assets/capstone.jpg"
-
-![Peru Adventure]({{ site.baseurl }}/assets/peru.jpg "Peru Adventure"){:.cover}
  
 Over the course of the academic year 2023-2024, I have helped Microsoft develop innovative cooling techniques for high-powered servers. A proposed bifacial cold plate is designed to increase the operating power from 600w to 1000w. Where traditional methods struggle, a liquid-cooled server offers increased cooling capabilities. Through simulations and testing, the thermal properties of the design are optimized, and materials are chosen with consideration to manufacturing restrictions. Our results show significant temperature reductions, ensuring stable server performance. This innovation offers a promising solution for cooling challenges in modern server systems.
 
