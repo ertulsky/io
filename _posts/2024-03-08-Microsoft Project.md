@@ -10,8 +10,8 @@ cover: "/assets/capstone.jpg"
  
 Over the course of the academic year 2023-2024, I have helped Microsoft develop innovative cooling techniques for high-powered servers. A proposed bifacial cold plate is designed to increase the operating power from 600w to 1000w. Where traditional methods struggle, a liquid-cooled server offers increased cooling capabilities. Through simulations and testing, the thermal properties of the design are optimized, and materials are chosen with consideration to manufacturing restrictions. Our results show significant temperature reductions, ensuring stable server performance. This innovation offers a promising solution for cooling challenges in modern server systems.
 
-<a href="/assets/Microsoft Final Poster.pptx" data-lightbox="capstone poster" data-title="2024 ME Capstone">Image #1</a>
-<a href="/assets/Bifacial Cold plates for High Powered Servers Final Report.pdf" data-lightbox="capstone report" data-title="2024 ME Capstone">Image #1</a>
+<object data="/assets/Microsoft Final Poster.pptx" width="1000" height="1000" type='application/pptx'/>
+<object data="/assets/Bifacial Cold plates for High Powered Servers Final Report.pdf" width="1000" height="1000" type='application/pdf'/>
 
 ### Presentation
 The senior capstone project is composed of 19 company sponsors to solve relevant industry problems. From the year-long company-sponsored project, the team presented at the conclusion of the fall and the spring (final presentation) to a panel of 14 industry expert judges.
