@@ -15,21 +15,9 @@ Over the course of the academic year 2023-2024, I have helped Microsoft develop 
 ### Presentation
 The senior capstone project is composed of 19 company sponsors to solve relevant industry problems. Of the year-long company-sponsored project, the team presented at the conclusion of the fall and the spring (final presentation) to a panel of 14 industry expert judges.
 
-![Peru Adventure]({{ site.baseurl }}/assets/peru.jpg "Peru Adventure"){:.profile}
-
 <a href="assets/capstone.jpg" data-lightbox="capstone" data-title="2024 ME Capstone">Image #1</a>
 <a href="assets/posterpresentation_microsoft.jpg" data-lightbox="capstone">Image #2</a>
 <a href="assets/fallpresentation_microsoft.jpg" data-lightbox="capstone">Image #3</a>
-
-<a href="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone">
-  <img src="https://github.com/ertulsky/io/blob/master/assets/capstone.jpg" title="2024 ME Capstone Final Project Presentations">
-</a>
-<a href="https://github.com/ertulsky/io/blob/master/assets/posterpresentation_microsoft.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone1">
-  <img src="https://github.com/ertulsky/io/blob/master/assets/posterpresentation_microsoft.jpg" title="2024 ME Capstone Final Poster Presentations">
-</a>
-<a href="https://github.com/ertulsky/io/blob/master/assets/fallpresentation_microsoft.jpg" data-lightbox="2024 ME Capstone" data-title="2024 ME Capstone1">
-  <img src="https://github.com/ertulsky/io/blob/master/assets/fallpresentation_microsoft.jpg" title="2024 ME Capstone Final Poster Presentations">
-</a>
 
 
 
