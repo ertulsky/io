@@ -13,7 +13,7 @@ Over the course of the academic year 2023-2024, I have helped Microsoft develop 
 <p align="center">
 <embed src="/assets/files/Microsoft Final Poster.pdf" width="500" height="300" type='application/pdf'/>
 <embed src="/assets/files/Bifacial Cold plates for High Powered Servers Final Report.pdf" width="500" height="400" type='application/pdf'/>
-<embed src="/assets/files/FinalPresentation_Spring.pdf" width="500" height="400" type='application/pdf'/>
+<embed src="/assets/files/FinalPresentation_Spring.pdf" width="500" height="300" type='application/pdf'/>
 </p>
 
 ### Presentation
