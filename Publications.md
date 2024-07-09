@@ -6,14 +6,11 @@ main_nav: true
 ---
 Publications in reversed chronological order.
 
-<br/>
 
-<h6>2024</h6>
+<h4>2024</h4>
 E. Tulsky, N. Rubino, J. Carter, A. Thompson, V. H. Duenas “Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking”, IEEE Conference on Controls Technology and Application, 2024.
 
-<br/>
-{% include page_divider.html %}
-<h6>2022</h6>
+<h4>2022</h4>
 
 E. Tulsky, J. Casas, C. Chang, S. Brose, V. H. Duenas “Influence of vibration stimuli applied on the quadriceps femoris muscles during functional electrical stimulation induced cycling,” Artif. Organs, Vol. 46, No. 3, E77-E81, March 2022, doi.org/10.1111/aor.14132.
 
