@@ -16,28 +16,3 @@ E. Tulsky, J. Casas, C. Chang, S. Brose, V. H. Duenas “Influence of vibration 
 
 Tulsky, J. Casas, C. Chang, S. Brose, V. H. Duenas “Influence of Vibration Stimuli Applied on the Quadriceps Femoris Muscle during Functional Electrical Stimulation Induced Cycling”, in Proc. International Functional Electrical Stimulation Society (IFESS) Conf., 2021.
 
-
-@Article{<bibtex key>,
-  author        = {},
-  title         = {},
-  journal       = {ArXiv e-prints}
-  year          = {},
-  volume        = {},
-  number        = {},
-  pages         = {},
-  archiveprefix = {arXiv},
-  eprint        = {<xxxx.xxxxx>},
-  doi           = {},
-  url           = {},
-}
-
-THESIS
-@MastersThesis{<bibtex key>,
-  author    = {},
-  title     = {},
-  school    = {},
-  year      = {},
-  month     = {},
-  url       = {},
-  note      = {Bachelor's Thesis},
-}
