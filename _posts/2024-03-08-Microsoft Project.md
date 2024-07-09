@@ -19,7 +19,7 @@ Over the course of the academic year 2023-2024, I have helped Microsoft develop 
 ### Presentation
 The senior capstone project is composed of teams of three engineers to solve relevant industry problems from 19 company sponsors. From the year-long company-sponsored project, the team presented at the conclusion of the fall and the spring (final presentation) to a panel of 14 industry expert judges.
 
-<a href="/assets/capstone.jpg" data-lightbox="capstone" data-title="2024 ME Capstone">Image #1> <img src="//bencentra.com/assets/images/falcon9_small.jpg" title="Check out the Falcon 9 from SpaceX">
+<a href="/assets/capstone.jpg" data-lightbox="capstone" data-title="2024 ME Capstone">Image #1> <img src="/assets/capstone.jpg" title="Check out the Falcon 9 from SpaceX">
  </a>
 <a href="/assets/posterpresentation_microsoft.jpg" data-lightbox="capstone" data-title="Spring Term Poster Presentation">Image #2</a>
 <a href="/assets/fallpresentation_microsoft.jpg" data-lightbox="capstone" data-title="Fall Term Presentation">Image #3</a>
