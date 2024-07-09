@@ -25,4 +25,4 @@ The senior capstone project is composed of teams of three engineers to solve rel
 <a href="/assets/fallpresentation_microsoft.jpg" data-lightbox="capstone" data-title="Fall Term Presentation"> Image #3</a>
 </p>
 
-**More information on the company-sponsored 2024 ME Capstone Final Project Presentations can be found on [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7191762558649851904/).**
+**More information on the company-sponsored 2024 ME Capstone Final Project Presentations can be found on [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7191762558649851904/) and [ECS News](https://ecs.syracuse.edu/about/news/mechanical-and-aerospace-engineering-senior-capstone-teams-present-designs-to-industry-partners).**
