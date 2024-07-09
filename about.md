@@ -7,11 +7,11 @@ main_nav: true
 
 Hello, I'm Evan Tulsky, and I've always been fascinated by the intersection of robotics, dynamics, and rehabilitative devices. Witnessing my father's work in cognitive tests for quality of life metrics underscored for me the critical importance of rehabilitative devices in addressing physical challenges.
 
+![alt text]({{ site.baseurl }}/assets/headshot.jpg "Profile Picture"){:.profile}
+
 I am currently a doctoral student specializing in human-robotic systems and controls for motor deficit rehabilitation under the guidance of Dr. Victor Duenas. Prior to this, I graduated Magna cum laude from Syracuse University in 2024 with a B.S. in Mechanical Engineering, where I was honored as the Richard A. Bernard Scholar and received recognition for the Best Thesis in the Natural Sciences and Engineering.
 
 My journey is driven by a deep-seated passion to leverage technology for enhancing human health and quality of life. In the future, I aspire to contribute innovations that advance the field of rehabilitative robotics and empower individuals facing physical limitations.
-
-![alt text]({{ site.baseurl }}/assets/headshot.jpg "Profile Picture"){:.profile}
 
 <h4>A little bit about myself</h4>
 
