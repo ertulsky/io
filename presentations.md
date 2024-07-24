@@ -2,5 +2,5 @@
 layout: page
 title: "Presentations"
 permalink: /Presenations/
-main_nav: true
+main_nav: false
 ---
