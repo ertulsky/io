@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Presentations"
-permalink: /Thesis/
+permalink: /Presenations/
 main_nav: true
 ---
