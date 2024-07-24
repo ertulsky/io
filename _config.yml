@@ -77,12 +77,12 @@ descriptions:
 #     share: true                           # Include in the "Share" section of posts
 social:
 
-  - name: GitHub
-    icon: github
-    username: ertulsky
-    url: https://github.com/ertulsky
-    desc: Fork me on GitHub
-    share: true
+#  - name: GitHub
+#    icon: github
+#    username: ertulsky
+#    url: https://github.com/ertulsky
+#    desc: Fork me on GitHub
+#    share: true
 
   - name: LinkedIn
     icon: linkedin
@@ -90,8 +90,8 @@ social:
     url: https://www.linkedin.com/in/evan-tulsky/
     desc: Connect with me on LinkedIn
     share: true
-
-   - name: Google Scholar
+    
+  - name: Google Scholar
     icon: linkedin
     username: Google Scholar
     url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=rtHH7C8AAAAJ&gmla=AETOMgENwv0BzsWhCIYRQ35fhgfIbYSp_Ph-1odWWckLqEN0QNf7Q8lOf2BH4fO3NRxaWwgHMzHMGobRpjDcl7VKlWYjCl40OOs0aw
