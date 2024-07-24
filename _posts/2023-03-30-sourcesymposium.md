@@ -8,3 +8,6 @@ tags: Bionics, Systems, and Controls Lab Rehabilitative Devices
 cover: /assets/Syracuse-University-Symbol.png
 ---
 
+<p align="center">
+<embed src="/assets/files/EMG_cycling_poster.pdf" width="500" height="300" type='application/pdf'/>
+</p>
