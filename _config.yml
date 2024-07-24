@@ -82,7 +82,7 @@ social:
     username: ertulsky
     url: https://github.com/ertulsky
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
