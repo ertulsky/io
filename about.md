@@ -13,6 +13,8 @@ I am currently a doctoral student specializing in human-robotic systems and cont
 
 My journey is driven by a deep-seated passion to leverage technology for enhancing human health and quality of life. In the future, I aspire to contribute innovations that advance the field of rehabilitative robotics and empower individuals facing physical limitations.
 
+Research Interests: Controls, Robotics, Human-Robot Interaction, Rehabilitation
+
 <h4>A little bit about myself</h4>
 
 a passionate adventurer who finds joy in exploring new cultures and challenging myself through travel. My journeys have taken me across Europe, where I've cherished visits to close relatives in the Netherlands, lived briefly in Italy, and ventured through Spain, France, Switzerland, Denmark, England, Czechia, Belgium, Scotland, and Luxembourg. These experiences have enriched my perspective on a global scale.
