@@ -9,7 +9,7 @@ Hello, I'm Evan Tulsky, and I've always been fascinated by the intersection of r
 
 ![alt text]({{ site.baseurl }}/assets/headshot.jpg "Profile Picture"){:.profile}
 
-I am currently a doctoral student specializing in human-robotic systems and controls for motor deficit rehabilitation under the guidance of Dr. Victor Duenas. Prior to this, I graduated Magna cum laude from Syracuse University in 2024 with a B.S. in Mechanical Engineering, where I was honored as the Richard A. Bernard Scholar and received recognition for the Best Thesis in the Natural Sciences and Engineering.
+I am currently a doctoral student specializing in human-robotic systems and controls for motor deficit rehabilitation. Prior to this, I graduated Magna cum laude from Syracuse University in 2024 with a B.S. in Mechanical Engineering, where I was honored as the Richard A. Bernard Scholar and received recognition for the Best Thesis in the Natural Sciences and Engineering.
 
 My journey is driven by a deep-seated passion to leverage technology for enhancing human health and quality of life. In the future, I aspire to contribute innovations that advance the field of rehabilitative robotics and empower individuals facing physical limitations.
 
@@ -17,7 +17,7 @@ My journey is driven by a deep-seated passion to leverage technology for enhanci
 
 <h4>A little bit about myself</h4>
 
-a passionate adventurer who finds joy in exploring new cultures and challenging myself through travel. My journeys have taken me across Europe, where I've cherished visits to close relatives in the Netherlands, lived briefly in Italy, and ventured through Spain, France, Switzerland, Denmark, England, Czechia, Belgium, Scotland, and Luxembourg. These experiences have enriched my perspective on a global scale.
+a passionate adventurer who finds joy in exploring new cultures and challenging myself through travel. My journeys have taken me across Europe, where I've cherished visits to close relatives in the Netherlands, lived briefly in Italy, and ventured through various European countries. These experiences have enriched my perspective on a global scale.
 
 Beyond Europe, I've been fortunate to explore diverse landscapes and cultures in Peru, Costa Rica, Curacao and Aruba, Puerto Rico, Mexico, and Israel. Each destination has left an indelible mark, fostering my appreciation for cultural diversity and personal growth.
 
@@ -26,7 +26,6 @@ Back in the United States, my father and I share a quest to visit every baseball
 <p align="center">
 <a href="/assets/peru.jpg" data-lightbox="about" data-title="Click for next image"> <img src="/assets/peru.jpg"> Click image to view </a>
 <a href="/assets/scuba.jpg" data-lightbox="about" data-title="Click for next image"> </a>
-<a href="/assets/fallpresentation_microsoft.jpg" data-lightbox="about" data-title=""> </a>
 </p>
 
 Staying active fuels my creativity, whether I'm training for marathons or exploring my passion for cooking, which allows me to immerse myself in various cultures through their cuisine. I am currently training for my second marathon in 2024.
