@@ -92,7 +92,7 @@ social:
     share: true
     
   - name: Google Scholar
-    icon: linkedin
+    icon: google scholar
     username: Google Scholar
     url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=rtHH7C8AAAAJ&gmla=AETOMgENwv0BzsWhCIYRQ35fhgfIbYSp_Ph-1odWWckLqEN0QNf7Q8lOf2BH4fO3NRxaWwgHMzHMGobRpjDcl7VKlWYjCl40OOs0aw
     desc: View my publications on Google Scholar
