@@ -7,4 +7,6 @@ categories: Projects
 tags: Mechatronics
 ---
 
-This post is in progress. 
+<p align="center">
+<embed src="/assets/files/MAE500MechatronicsWindowBlinds (2).pdf" width="500" height="300" type='application/pdf'/>
+</p>
