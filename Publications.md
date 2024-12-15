@@ -9,7 +9,7 @@ Publications in reversed chronological order.
 <h4>Thesis</h4>
 [T1] **E. Tulsky**, “Targeting the Soleus and Quadriceps Muscles Using Powered Robotic Rehabilitation Devices and Neuromuscular Control” *Honors Thesis*, Syracuse University, April 22, 2024.
 
-<h4>2024</h4>
+<h4>COnference Publications</h4>
 [C1] **E. Tulsky**, N. Rubino, J. Carter, A. K. Thompson and V. H. Duenas, "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking," *2024 IEEE Conference on Control Technology and Applications (CCTA)*, Newcastle upon Tyne, United Kingdom, 2024, pp. 14-19, doi: 10.1109/CCTA60707.2024.10666517.
 
 [C2] **E. Tulsky**, J. Casas, C. Chang, S. Brose, V. H. Duenas “Influence of vibration stimuli applied on the quadriceps femoris muscles during functional electrical stimulation induced cycling,” *Artificial Organs*, Vol. 46, No. 3, E77-E81, March 2022, doi.org/10.1111/aor.14132.
