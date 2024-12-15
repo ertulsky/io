@@ -14,7 +14,7 @@ I am currently a doctoral student specializing in human-robotic systems and cont
 
 My journey is driven by a deep-seated passion to leverage technology for enhancing human health and quality of life. In the future, I aspire to contribute innovations that advance the field of rehabilitative robotics and empower individuals facing physical limitations.
 
-<h5>Research Interests:</h5> Controls, Robotics, Human-Robot Interaction, Rehabilitation
+<h4>Research Interests:</h4> Controls, Robotics, Human-Robot Interaction, Rehabilitation
 
 <h4>A little bit about myself</h4>
 
