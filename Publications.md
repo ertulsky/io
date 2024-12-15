@@ -7,7 +7,7 @@ main_nav: true
 Publications in reversed chronological order.
 
 <h4>Thesis</h4>
-[T1] **E. Tulsky**, “Targeting the Soleus and Quadriceps Muscles Using Powered Robotic Rehabilitation Devices and Neuromuscular Control” *Honors Thesis*, Syracuse University, April 22, 2024.
+[[T1]](/_posts/2024-05-25-RichardBernardAward.md) **E. Tulsky**, “Targeting the Soleus and Quadriceps Muscles Using Powered Robotic Rehabilitation Devices and Neuromuscular Control” *Honors Thesis*, Syracuse University, April 22, 2024.
 
 <h4>Conference Publications</h4>
 [C1] **E. Tulsky**, N. Rubino, J. Carter, A. K. Thompson and V. H. Duenas, "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking," *2024 IEEE Conference on Control Technology and Applications (CCTA)*, Newcastle upon Tyne, United Kingdom, 2024, pp. 14-19, doi: 10.1109/CCTA60707.2024.10666517.
