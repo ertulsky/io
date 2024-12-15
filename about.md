@@ -27,7 +27,7 @@ Back in the United States, my father and I share a quest to visit every baseball
 <p align="center">
 <a href="/assets/peru.jpg" data-lightbox="about" data-title="Click for next image"> <img src="/assets/peru.jpg"> Click image to view </a>
 <a href="/assets/scuba.jpg" data-lightbox="about" data-title="Click for next image"> </a>
-<a href="/assets/IMG_3019(2).jpg" data-lightbox="about" data-title="Click for next image"> </a>
+<a href="/assets/IMG_3019 (2).JPG" data-lightbox="about" data-title="Click for next image"> </a>
 <a href="/assets/IMG_2845.jpg" data-lightbox="about" data-title="Click for next image"> </a>
 </p>
 
