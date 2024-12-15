@@ -12,7 +12,7 @@ Hello, I'm Evan Tulsky, and I've always been fascinated by the intersection of r
 <h4>Professional Introduction</h4>
 I am currently a doctoral student specializing in human-robotic systems and controls for motor deficit rehabilitation. Prior to this, I graduated Magna Cum Laude from Syracuse University in 2024 with a B.S. in Mechanical Engineering and recognition from the honors college. I have been honored as the Richard A. Bernard Scholar for efforts in the disabled population and received recognition for the best thesis in engineering.
 
-[testing](posts/2024-05-25-richardbernardaward.md)
+[Richard A. Bernard Scholar](_posts/2024-05-25-RichardBernardAward.md)
 
 My journey is driven by a deep-seated passion to leverage technology for enhancing human health and quality of life. In the future, I aspire to contribute innovations that advance the field of rehabilitative robotics and empower individuals facing physical limitations.
 
