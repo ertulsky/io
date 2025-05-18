@@ -2,6 +2,7 @@
 layout: page
 title: "Publications"
 permalink: /Publications/
+main_nav: true
 ---
 
 ## Conference Publications
