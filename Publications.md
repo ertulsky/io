@@ -19,3 +19,19 @@ main_nav: true
   </div>
 </div>
 {% endfor %}
+
+## Presentations
+
+{% for pres in site.data.presentations %}
+<div class="pub-entry">
+  <a href="{{ pres.link }}" target="_blank">
+    <img src="{{ pres.img }}" alt="Presentation Image" class="pub-thumb">
+  </a>
+  <div class="pub-details">
+    <a href="{{ pres.link }}" class="pub-title" target="_blank">{{ pres.title }}</a>
+    <div class="pub-meta">{{ pres.venue }}</div>
+    <div class="pub-authors">{{ pres.authors }}</div>
+  </div>
+</div>
+{% endfor %}
+
