@@ -15,7 +15,7 @@ main_nav: true
 }
 
 .pub-thumb {
-  width: 200px;
+  width: 70px;
   height: auto;
   margin-right: 20px;
   border-radius: 4px;
