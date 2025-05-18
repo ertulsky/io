@@ -1,41 +1,63 @@
+- title: "Muscle Response Identification for a Motorized Ankle Stretching Device"
+  link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
+  img: "/assets/images/presentations/ccta2024.png"
+  authors: "Evan Tulsky, Nicholas Rubino, Victor H. Duenas"
+  venue: "Workshop Session at IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2024
+  tag: "BSC Lab at SU"
+
 - title: "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"
   link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
   img: "/assets/images/presentations/ccta2024.png"
   authors: "Evan Tulsky"
-  venue: "IEEE Conference on Control Technology and Applications (CCTA), August 20, 2024"
+  venue: "IEEE Conference on Control Technology and Applications (CCTA)"
+  year: 2024
+  tag: "BSC Lab at SU"
 
 - title: "Targeting the Soleus and Quadriceps Muscles Using Powered Robotic Rehabilitation Devices and Neuromuscular Control"
   link: "https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis"
   img: "/assets/images/presentations/thesis2024.png"
   authors: "Evan Tulsky"
-  venue: "Thesis Presentation, Syracuse University, April 22, 2024"
+  venue: "Thesis Presentation, Syracuse University"
+  year: 2024
+  tag: "BSC Lab at SU"
 
 - title: "Bifacial Cold Plates for High Powered Servers"
   link: "https://evantulsky.netlify.app/projects/2024/05/14/microsoft-project"
   img: "/assets/images/presentations/bifacial2024.png"
   authors: "Evan Tulsky"
-  venue: "Poster and Presentation, Syracuse University and Microsoft, April 20, 2024"
+  venue: "Poster and Presentation, Syracuse University and Microsoft"
+  year: 2024
+  tag: "Microsoft"
 
 - title: "Bifacial Cold Plates for High Powered Servers"
   link: "https://evantulsky.netlify.app/projects/2024/05/14/microsoft-project"
   img: "/assets/images/presentations/bifacial2023.png"
   authors: "Evan Tulsky"
-  venue: "Presentation, Syracuse University and Microsoft, December 19, 2023"
+  venue: "Presentation, Syracuse University and Microsoft"
+  year: 2023
+  tag: "Microsoft"
 
 - title: "EMG Tracking Controller with Integral Anti-Windup Compensation in Motorized FES Cycling Experiments"
   link: "https://evantulsky.netlify.app/papers/2023/03/30/sourcesymposium"
   img: "/assets/images/presentations/source2023.png"
   authors: "Evan Tulsky"
-  venue: "Poster Presentation, SOURCE Symposia, Syracuse University, April 10, 2023"
+  venue: "Poster Presentation, SOURCE Symposium, Syracuse University"
+  year: 2023
+  tag: "BSC Lab at SU"
 
 - title: "Influence of Vibration Stimuli Applied on the Quadriceps Femoris Muscle during Functional Electrical Stimulation Induced Cycling"
   link: "https://evantulsky.netlify.app/papers/2021/09/20/ifess"
   img: "/assets/images/presentations/ifess2022.png"
   authors: "Evan Tulsky"
-  venue: "Presentation, IFESS Conference, September 17, 2022"
+  venue: "Presentation, International Functional Electrical Stimulation Society (IFESS) Conference"
+  year: 2022
+  tag: "BSC Lab at SU"
 
 - title: "Why are Aspirin and Acetaminophen Dosed Primarily as Solids?"
   link: "https://evantulsky.netlify.app/projects/2019/05/19/science-research"
   img: "/assets/images/presentations/nokia2019.png"
   authors: "Evan Tulsky"
-  venue: "Presentation, Nokia Bell Labs North Jersey Science Fair, March 9, 2019"
+  venue: "Presentation, Nokia Bell Labs North Jersey Science Fair"
+  year: 2019
+  tag: ""
