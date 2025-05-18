@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Evan Tulsky
+main_nav: true
 ---
 
 # Evan Tulsky
