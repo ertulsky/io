@@ -54,24 +54,7 @@ main_nav: true
 }
 </style>
 
-## Thesis
-
-<div class="pub-entry">
-  <a href="https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis" target="_blank">
-    <img src="/assets/images/publications/thesis2024.png" alt="Honors Thesis" class="pub-thumb">
-  </a>
-  <div class="pub-details">
-    <a href="https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis" class="pub-title" target="_blank">
-      Targeting the Soleus and Quadriceps Muscles Using Powered Robotic Rehabilitation Devices and Neuromuscular Control
-    </a>
-    <div class="pub-meta">Honors Thesis</div>
-    <div class="pub-authors">Evan Tulsky</div>
-    <div class="pub-year-inst">2024 | Syracuse University</div>
-  </div>
-</div>
-
-## Journal Articles
-<p><em>No journal articles available at this time.</em></p>
+## Publications in Reverse Chronological Order
 
 ## Conference Publications
 
@@ -82,12 +65,31 @@ main_nav: true
   </a>
   <div class="pub-details">
     <a href="{{ pub.link }}" class="pub-title" target="_blank">{{ pub.title }}</a>
-    <div class="pub-meta">{{ pub.venue }}</div>
+    <div class="pub-meta">{{ pub.venue }} (<strong>{{ pub.year }}</strong>)</div>
     <div class="pub-authors">{{ pub.authors }}</div>
-    <div class="pub-year-inst">{{ pub.year }} | {{ pub.institution }}</div>
+    <div class="pub-year-inst"><a href="/tags/bsc-lab-at-su">BSC Lab at SU</a></div>
   </div>
 </div>
 {% endfor %}
+
+## Journal Articles
+<p><em>No journal articles available at this time.</em></p>
+
+## Thesis
+
+<div class="pub-entry">
+  <a href="https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis" target="_blank">
+    <img src="/assets/images/publications/thesis2024.png" alt="Honors Thesis" class="pub-thumb">
+  </a>
+  <div class="pub-details">
+    <a href="https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis" class="pub-title" target="_blank">
+      Targeting the Soleus and Quadriceps Muscles Using Powered Robotic Rehabilitation Devices and Neuromuscular Control
+    </a>
+    <div class="pub-meta">Honors Thesis (<strong>2024</strong>)</div>
+    <div class="pub-authors">Evan Tulsky</div>
+    <div class="pub-year-inst"><a href="/tags/bsc-lab-at-su">BSC Lab at SU</a></div>
+  </div>
+</div>
 
 ## Presentations
 
@@ -98,9 +100,11 @@ main_nav: true
   </a>
   <div class="pub-details">
     <a href="{{ pres.link }}" class="pub-title" target="_blank">{{ pres.title }}</a>
-    <div class="pub-meta">{{ pres.venue }}</div>
+    <div class="pub-meta">{{ pres.venue }} (<strong>{{ pres.year }}</strong>)</div>
     <div class="pub-authors">{{ pres.authors }}</div>
+    {% if pres.tag %}
+    <div class="pub-year-inst"><a href="/tags/{{ pres.tag | slugify }}">{{ pres.tag }}</a></div>
+    {% endif %}
   </div>
 </div>
 {% endfor %}
-
