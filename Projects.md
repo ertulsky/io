@@ -2,5 +2,6 @@
 layout: page
 title: "Projects"
 permalink: /Projects/
-main_nav: false
+main_nav: true
 ---
+
