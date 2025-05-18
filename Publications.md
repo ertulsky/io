@@ -5,6 +5,74 @@ permalink: /Publications/
 main_nav: true
 ---
 
+<style>
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 15px;
+}
+
+.pub-thumb {
+  width: 200px;
+  height: auto;
+  margin-right: 20px;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.pub-details {
+  flex: 1;
+}
+
+.pub-title {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #005f83;
+  text-decoration: none;
+}
+
+.pub-title:hover {
+  text-decoration: underline;
+}
+
+.pub-meta {
+  font-style: italic;
+  margin-top: 5px;
+}
+
+.pub-authors {
+  margin-top: 5px;
+  color: #444;
+}
+
+.pub-year-inst {
+  margin-top: 5px;
+  font-size: 0.9em;
+  color: #666;
+}
+</style>
+
+## Thesis
+
+<div class="pub-entry">
+  <a href="https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis" target="_blank">
+    <img src="/assets/images/publications/thesis2024.png" alt="Honors Thesis" class="pub-thumb">
+  </a>
+  <div class="pub-details">
+    <a href="https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis" class="pub-title" target="_blank">
+      Targeting the Soleus and Quadriceps Muscles Using Powered Robotic Rehabilitation Devices and Neuromuscular Control
+    </a>
+    <div class="pub-meta">Honors Thesis</div>
+    <div class="pub-authors">Evan Tulsky</div>
+    <div class="pub-year-inst">2024 | Syracuse University</div>
+  </div>
+</div>
+
+## Journal Articles
+<p><em>No journal articles available at this time.</em></p>
+
 ## Conference Publications
 
 {% for pub in site.data.publications %}
@@ -16,6 +84,7 @@ main_nav: true
     <a href="{{ pub.link }}" class="pub-title" target="_blank">{{ pub.title }}</a>
     <div class="pub-meta">{{ pub.venue }}</div>
     <div class="pub-authors">{{ pub.authors }}</div>
+    <div class="pub-year-inst">{{ pub.year }} | {{ pub.institution }}</div>
   </div>
 </div>
 {% endfor %}
