@@ -1,6 +1,6 @@
 - title: "Adaptive Control Using a High Order Tuner for a Motorized Ankle Device Targeting the Soleus Muscle"
   link: "https://evantulsky.netlify.app/papers/2025/11/01/ieee-mecc"
-  img: "/assets/images/publications/mecc2025.png"
+  img: "/assets/publications/mecc2025.png"
   authors: "N. Rubino, Evan Tulsky, A. K. Thompson, V. H. Duenas"
   venue: "2025 IEEE Modeling, Estimation, and Control Conference (MECC), In Submission"
   year: 2025
@@ -8,7 +8,7 @@
 
 - title: "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"
   link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
-  img: "/assets/images/publications/ccta2024.png"
+  img: "/assets/publications/ccta2024.png"
   authors: "Evan Tulsky, N. Rubino, J. Carter, A. K. Thompson, V. H. Duenas"
   venue: "2024 IEEE Conference on Control Technology and Applications (CCTA)"
   year: 2024
@@ -16,7 +16,7 @@
 
 - title: "Influence of vibration stimuli applied on the quadriceps femoris muscles during functional electrical stimulation induced cycling"
   link: "https://evantulsky.netlify.app/papers/2021/09/20/ifess"
-  img: "/assets/images/publications/ifess2021.png"
+  img: "/assets/publications/ifess2021.png"
   authors: "Evan Tulsky, J. Casas, C. Chang, S. Brose, V. H. Duenas"
   venue: "Artificial Organs, Vol. 46, No. 3, E77–E81"
   year: 2022
