@@ -54,7 +54,8 @@ main_nav: true
 }
 </style>
 
-## Publications in Reverse Chronological Order
+## Journal Articles
+<p><em>No journal articles available at this time.</em></p>
 
 ## Conference Publications
 
@@ -71,9 +72,6 @@ main_nav: true
   </div>
 </div>
 {% endfor %}
-
-## Journal Articles
-<p><em>No journal articles available at this time.</em></p>
 
 ## Thesis
 
