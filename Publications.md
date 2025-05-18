@@ -18,4 +18,3 @@ permalink: /Publications/
   </div>
 </div>
 {% endfor %}
-
