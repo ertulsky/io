@@ -42,11 +42,10 @@ main_nav: true
 
 ## Rehabilitation Robotics
 
-### [Camera Gait Analysis](/tags/gait-phase-detection)
+### [Camera Gait Analysis](/tags/Camera-Gait-Analysis)
 <div class="project-sub">
-  <img src="/assets/images/projects/gait-phase.png" class="project-img">
+  <img src="/assets/images/projects/gait-phase.png" alt="Camera Gait Analysis" class="project-img">
   <div class="project-details">
-    <a href="/tags/Camera-Gait-Analysis" class="project-tag">Gait Phase Detection</a>
     <div class="project-meta">Tags: {% assign tags = 'Kessler Foundation, Reinforcement Learning' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 </div>
