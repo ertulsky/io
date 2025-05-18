@@ -40,7 +40,15 @@ main_nav: true
 }
 </style>
 
-## BSC Lab at SU
+## Rehabilitation Robotics
+
+### Gait Phase Detection
+<div class="project-sub">
+  <img src="/assets/images/projects/gait-phase.png" alt="Gait Phase Detection" class="project-img">
+  <div class="project-details">
+    <a href="/tags/gait-phase-detection" class="project-tag">Gait Phase Detection</a>
+  </div>
+</div>
 
 ### Bicycle
 <div class="project-sub">
@@ -68,16 +76,6 @@ main_nav: true
 </div>
 
 ## Personal Projects
-
-## Rehabilitation Robotics
-
-### Gait Phase Detection
-<div class="project-sub">
-  <img src="/assets/images/projects/gait-phase.png" alt="Gait Phase Detection" class="project-img">
-  <div class="project-details">
-    <a href="/tags/gait-phase-detection" class="project-tag">Gait Phase Detection</a>
-  </div>
-</div>
 
 ### Computer Vision Two-Link Robot Manipulator
 <div class="project-sub">
