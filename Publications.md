@@ -77,7 +77,7 @@ main_nav: true
 
 <div class="pub-entry">
   <a href="https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis" target="_blank">
-    <img src="/assets/images/publications/thesis2024.png" alt="Honors Thesis" class="pub-thumb">
+    <img src="/assets/publications/thesis2024.png" alt="Honors Thesis" class="pub-thumb">
   </a>
   <div class="pub-details">
     <a href="https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis" class="pub-title" target="_blank">
