@@ -60,7 +60,7 @@ I am currently a doctoral student specializing in human-robotic systems and cont
 
 **Controls**, **Robotics**, **Human-Robot Interaction**, **Rehabilitation**
 
-<h4>A little bit about myself</h4>
+## A little bit about myself
 
 a passionate adventurer who finds joy in exploring new cultures and challenging myself through travel. My journeys have taken me across Europe, where I've cherished visits to close relatives in the Netherlands, lived briefly in Italy, and ventured through various European countries. These experiences have enriched my perspective on a global scale.
 
