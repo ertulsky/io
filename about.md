@@ -6,13 +6,35 @@ main_nav: true
 ---
 
 Hello, I'm Evan Tulsky, and I've always been fascinated by the intersection of robotics, dynamics, and rehabilitative devices. Witnessing my father's work in cognitive tests for quality of life metrics underscored for me the critical importance of rehabilitative devices in addressing physical challenges.
-
 ![alt text]({{ site.baseurl }}/assets/headshot.jpg "Profile Picture"){:.profile}
+
+<h4>Contact</h4>
+ertulsky@syr.edu
 
 <h4>Professional Introduction</h4>
 I am currently a doctoral student specializing in human-robotic systems and controls for motor deficit rehabilitation. Prior to this, I graduated Magna Cum Laude from Syracuse University in 2024 with a B.S. in Mechanical Engineering and recognition from the honors college. I have been honored as the [Richard A. Bernard Scholar](https://evantulsky.netlify.app/awards/2024/05/25/richardbernardaward) for efforts in the disabled population and received recognition for the [best thesis](https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis) in engineering.
 
 My journey is driven by a deep-seated passion to leverage technology for enhancing human health and quality of life. In the future, I aspire to contribute innovations that advance the field of rehabilitative robotics and empower individuals facing physical limitations.
+
+<h4>Education</h4>
+make this a list
+bullet 1: M.Sc. in Mechanical Engineering, Syracuse University
+Bullet 2: B.Sc., in Mechanical Engineering, Syracuse University
+
+<h4>Complete CV</h4>
+
+<h4>Publication List</h4>
+
+<h4>Select Awards</h4>
+Make this a list
+Richard A. Bernard Scholar	2024
+Best Thesis in the Natural Sciences & Engineering Award ($1000)	2024
+Honors Crown Scholar ($2641), Syracuse University	2023
+SOURCE Scholar ($5000), Syracuse University	2022
+Research Experience for Undergraduates ($3200), Syracuse University	2021
+Maxwell Citizenship Scholarship Competition Finalist, Syracuse University	2020
+President’s Award for Educational Excellence	2020
+Yale Science and Engineering Award	2018
 
 <h4>Research Interests:</h4> Controls, Robotics, Human-Robot Interaction, Rehabilitation
 
