@@ -45,8 +45,6 @@ main_nav: true
 ### [Gait Phase Detection](/tags/gait-phase-detection)
 <div class="project-sub">
   <img src="/assets/images/projects/gait-phase.png" alt="Gait Phase Detection" class="project-img">
-  <!-- Optional Award Note -->
-  <div class="project-meta"><em>Award: [insert award here]</em></div>
   <div class="project-details">
     <div class="project-meta">Tags: {% assign tags = 'Kessler Foundation, Reinforcement Learning' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
@@ -65,8 +63,7 @@ main_nav: true
 <div class="project-sub">
   <img src="/assets/images/projects/stretching.png" alt="Motorized Stretching Device" class="project-img">
   <div class="project-details">
-    <a href="/tags/motorized-stretching-device" class="project-tag">Motorized Stretching Device</a>
-    <div class="project-meta"><em>Award: [One associated paper]</em></div>
+    <div class="project-meta"><em>Award: [1 conference paper]</em></div>
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 </div>
@@ -76,7 +73,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   <img src="/assets/images/projects/ankle.pdf" alt="Ankle Foot Orthosis" class="project-img">
   <div class="project-details">
     <a href="/tags/ankle-foot-orthosis" class="project-tag">Ankle Foot Orthosis</a>
-    <div class="project-meta"><em>Award: [two associated paper]</em></div>
+    <div class="project-meta"><em>Award: [1 conference paper, 1 thesis]</em></div>
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 </div>
@@ -86,7 +83,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   <img src="/assets/images/projects/bicycle.png" alt="Bicycle Project" class="project-img">
   <div class="project-details">
     <a href="/tags/bicycle" class="project-tag">Bicycle</a>
-    <div class="project-meta"><em>Award: [One associated paper]</em></div>
+    <div class="project-meta"><em>Award: [1 conference paper, 1 thesis]</em></div>
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 </div>
