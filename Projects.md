@@ -18,7 +18,7 @@ main_nav: true
   width: 40px;
   height: auto;
   margin-right: 10px;
-  border-radius: 6px;
+  border-radius: 12px;
   object-fit: cover;
 }
 .project-details {
