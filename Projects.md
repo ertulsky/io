@@ -48,7 +48,6 @@ main_nav: true
   <!-- Optional Award Note -->
   <div class="project-meta"><em>Award: [insert award here]</em></div>
   <div class="project-details">
-    <a href="/tags/gait-phase-detection" class="project-tag">Gait Phase Detection</a>
     <div class="project-meta">Tags: {% assign tags = 'Kessler Foundation, Reinforcement Learning' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 </div>
