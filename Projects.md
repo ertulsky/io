@@ -15,12 +15,14 @@ main_nav: true
   margin-bottom: 25px;
 }
 .project-img {
-  width: 20px;
-  height: 500px;
+  width: 60px;               /* set consistent width */
+  height: 60px;              /* set consistent height */
   margin-right: 30px;
   border-radius: 6px;
-  object-fit: cover;
+  object-fit: cover;         /* ensures the image fills the box without distortion */
+  flex-shrink: 0;            /* prevents image from shrinking if content overflows */
 }
+
 .project-details {
   flex: 2;
 }
