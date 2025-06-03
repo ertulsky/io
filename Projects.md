@@ -15,14 +15,14 @@ main_nav: true
   margin-bottom: 25px;
 }
 .project-img {
-  width: 70px;
+  width: 35px;
   height: auto;
   margin-right: 20px;
   border-radius: 6px;
   object-fit: cover;
 }
 .project-details {
-  flex: 1;
+  flex: 2;
 }
 .project-tag {
   font-size: 1.2em;
