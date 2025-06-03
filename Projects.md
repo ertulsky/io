@@ -74,7 +74,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 
 ### [Ankle Foot Orthosis](/tags/ankle-foot-orthosis)
 <div class="project-sub">
-  <img src="/assets/images/projects/ankle.png" alt="Ankle Foot Orthosis" class="project-img">
+  <img src="/assets/images/projects/ankle.pdf" alt="Ankle Foot Orthosis" class="project-img">
   <div class="project-details">
     <a href="/tags/ankle-foot-orthosis" class="project-tag">Ankle Foot Orthosis</a>
     <div class="project-meta"><em>Award: [two associated paper]</em></div>
