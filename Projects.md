@@ -16,7 +16,7 @@ main_nav: true
 }
 
 .project-img {
-  width: 200px;
+  width: 100px;
   height: auto;
   max-height: 100px;
   margin-right: 40px;
