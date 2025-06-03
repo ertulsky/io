@@ -15,13 +15,15 @@ main_nav: true
   margin-bottom: 25px;
 }
 .project-img {
-  width: 60px;               /* set consistent width */
-  height: 60px;              /* set consistent height */
-  margin-right: 30px;
+  width: 120px;            /* sets consistent image width */
+  height: auto;            /* allows height to scale proportionally */
+  max-height: 100px;       /* optional: prevents overly tall images */
+  margin-right: 30px;      /* spacing between image and text */
   border-radius: 6px;
-  object-fit: cover;         /* ensures the image fills the box without distortion */
-  flex-shrink: 0;            /* prevents image from shrinking if content overflows */
+  object-fit: contain;     /* ensures entire image fits without cropping */
+  flex-shrink: 0;          /* prevents shrinking in flex container */
 }
+
 
 .project-details {
   flex: 2;
