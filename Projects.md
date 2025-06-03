@@ -51,7 +51,7 @@ main_nav: true
 
 ### [Gait Phase Detection](/tags/gait-phase-detection)
 <div class="project-sub">
-  <img src="/assets/images/projects/gait-phase.png" alt="Gait Phase Detection" class="project-img">
+  <img src="/assets/images/projects/MRI.jpg" alt="Gait Phase Detection" class="project-img">
   <div class="project-details">
     <div class="project-meta">Tags: {% assign tags = 'Kessler Foundation, Reinforcement Learning' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
@@ -59,7 +59,7 @@ main_nav: true
 
 ### [Computer Vision Two-Link Robot Manipulator](/tags/robot-vision)
 <div class="project-sub">
-  <img src="/assets/images/projects/robot-vision.jpeg" alt="Robot Vision" class="project-img">
+  <img src="/assets/images/projects/robot-vision.jpg" alt="Robot Vision" class="project-img">
   <div class="project-details">
     <a href="/tags/robot-vision" class="project-tag">Computer Vision Two-Link Robot Manipulator</a>
     <div class="project-meta">Tags: {% assign tags = 'Personal Project, Reinforcement Learning' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'C++, Python' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
