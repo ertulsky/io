@@ -16,7 +16,7 @@ main_nav: true
 }
 .project-img {
   width: 35px;
-  height: auto;
+  height: 10px;
   margin-right: 10px;
   border-radius: 6px;
   object-fit: cover;
