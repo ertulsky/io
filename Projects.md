@@ -11,18 +11,21 @@ main_nav: true
 }
 .project-sub {
   display: flex;
-  align-items: flex-start;
+  align-items: flex-start;  /* aligns image to the top of the text block */
   margin-bottom: 25px;
 }
+
 .project-img {
-  width: 120px;            /* sets consistent image width */
-  height: auto;            /* allows height to scale proportionally */
-  max-height: 100px;       /* optional: prevents overly tall images */
-  margin-right: 30px;      /* spacing between image and text */
+  width: 200px;
+  height: auto;
+  max-height: 100px;
+  margin-right: 40px;
   border-radius: 6px;
-  object-fit: contain;     /* ensures entire image fits without cropping */
-  flex-shrink: 0;          /* prevents shrinking in flex container */
+  object-fit: contain;
+  flex-shrink: 0;
+  align-self: flex-start;   /* ensures the image aligns to top vertically */
 }
+
 
 
 .project-details {
