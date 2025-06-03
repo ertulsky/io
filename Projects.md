@@ -73,7 +73,6 @@ main_nav: true
     <div class="project-meta"><em>Award: 1 conference paper</em></div>
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
-</div>
 
 ### [Ankle Foot Orthosis](/tags/ankle-foot-orthosis)
 <div class="project-sub">
@@ -83,7 +82,6 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
     <div class="project-meta"><em>Award: 1 conference paper, 1 thesis</em></div>
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
-</div>
 
 ### [Bicycle](/tags/bicycle)
 <div class="project-sub">
