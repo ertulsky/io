@@ -15,8 +15,8 @@ main_nav: true
   margin-bottom: 25px;
 }
 .project-img {
-  width: 100px;
-  height: 200px;
+  width: 50px;
+  height: 400px;
   margin-right: 30px;
   border-radius: 6px;
   object-fit: cover;
