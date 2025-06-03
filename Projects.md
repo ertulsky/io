@@ -15,9 +15,9 @@ main_nav: true
   margin-bottom: 25px;
 }
 .project-img {
-  width: auto;
-  height: 40px;
-  margin-right: 10px;
+  width: 40px;
+  height: auto;
+  margin-right: 20px;
   border-radius: 6px;
   object-fit: cover;
 }
