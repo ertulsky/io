@@ -76,7 +76,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 
 ### [Ankle Foot Orthosis](/tags/ankle-foot-orthosis)
 <div class="project-sub">
-  <img src="/assets/images/projects/ankle.pdf" alt="Ankle Foot Orthosis" class="project-img">
+  <img src="/assets/images/projects/robot-vision.jpg" alt="Ankle Foot Orthosis" class="project-img">
   <div class="project-details">
     <a href="/tags/ankle-foot-orthosis" class="project-tag">Ankle Foot Orthosis</a>
     <div class="project-meta"><em>Award: 1 conference paper, 1 thesis</em></div>
@@ -115,7 +115,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 
 ### [Concussion Sensor](/tags/concussion-sensor)
 <div class="project-sub">
-  <img src="/assets/images/projects/concussion.png" alt="Concussion Sensor" class="project-img">
+  <img src="/assets/images/projects/footballhelmet.jpg" alt="Concussion Sensor" class="project-img">
   <div class="project-details">
     <a href="/tags/concussion-sensor" class="project-tag">Concussion Sensor</a>
     <div class="project-meta"><em>Award: Maxwell Citizens Finalist</em></div>
