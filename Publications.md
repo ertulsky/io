@@ -17,9 +17,10 @@ main_nav: true
 .pub-thumb {
   width: 40px;
   height: auto;
+  max-height: 100px;
   margin-right: 10px;
-  border-radius: 1px;
-  object-fit: cover;
+  border-radius: 4px;
+  object-fit: contain;
 }
 
 .pub-details {
