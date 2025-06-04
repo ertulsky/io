@@ -11,18 +11,16 @@ main_nav: true
 }
 .project-sub {
   display: flex;
-  align-items: flex-start;  /* aligns image to the top of the text block */
   margin-bottom: 25px;
 }
 
 .project-img {
-  width: 40px;
+  width: 60px;
   height: auto;
-  max-height: 200px;
-  margin-right: 10px;
+  max-height: 100px;
+  margin-right: 20px;
   border-radius: 4px;
-  object-fit: fill;
-  flex-shrink: 0;
+  object-fit: contain;
 }
 
 
