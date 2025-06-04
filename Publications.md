@@ -15,10 +15,10 @@ main_nav: true
 }
 
 .pub-thumb {
-  width: 40px;
+  width: 60px;
   height: auto;
   max-height: 100px;
-  margin-right: 10px;
+  margin-right: 20px;
   border-radius: 4px;
   object-fit: contain;
 }
