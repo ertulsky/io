@@ -18,9 +18,9 @@ main_nav: true
 .project-img {
   width: 40px;
   height: auto;
-  max-height: 100px;
+  max-height: 200px;
   margin-right: 10px;
-  border-radius: 6px;
+  border-radius: 4px;
   object-fit: contain;
   flex-shrink: 0;
   align-self: flex-start;   /* ensures the image aligns to top vertically */
