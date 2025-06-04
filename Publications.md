@@ -55,7 +55,7 @@ main_nav: true
 }
 </style>
 
-## Journal Articles
+## Journal Publications
 <p><em>No journal articles available at this time.</em></p>
 
 ## Conference Publications
