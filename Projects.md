@@ -23,7 +23,6 @@ main_nav: true
   border-radius: 4px;
   object-fit: fill;
   flex-shrink: 0;
-  align-self: flex-start;   /* ensures the image aligns to top vertically */
 }
 
 
