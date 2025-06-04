@@ -8,7 +8,7 @@ main_nav: true
 
 Hello, I'm Evan Tulsky, and I've always been fascinated by the intersection of robotics, dynamics, and rehabilitative devices. Witnessing my father's work in cognitive tests for quality of life metrics underscored for me the critical importance of rehabilitative devices in addressing physical challenges.
 
-![Profile Picture](/assets/headshot.jpg){:.profile}
+![Profile Picture](/assets/headshot_2.jpg){:.profile}
 
 ---
 
