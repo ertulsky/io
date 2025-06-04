@@ -59,7 +59,7 @@ main_nav: true
   </div>
 </div>
 
-### [Computer Vision Two-Link Robot Manipulator](/tags/robot-vision)
+#### [Computer Vision Two-Link Robot Manipulator](/tags/robot-vision)
 <div class="project-sub">
   <img src="/assets/images/projects/robot-vision.jpg" alt="Robot Vision" class="project-img">
   <div class="project-details">
@@ -67,7 +67,7 @@ main_nav: true
   </div>
 </div>
 
-### [Motorized Stretching Device](/tags/motorized-stretching-device)
+#### [Motorized Stretching Device](/tags/motorized-stretching-device)
 <div class="project-sub">
   <img src="/assets/images/projects/stretching.png" alt="Motorized Stretching Device" class="project-img">
   <div class="project-details">
@@ -75,7 +75,7 @@ main_nav: true
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 
-### [Ankle Foot Orthosis](/tags/ankle-foot-orthosis)
+#### [Ankle Foot Orthosis](/tags/ankle-foot-orthosis)
 <div class="project-sub">
   <img src="/assets/images/projects/robot-vision.jpg" alt="Ankle Foot Orthosis" class="project-img">
   <div class="project-details">
@@ -83,7 +83,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 
-### [Bicycle](/tags/bicycle)
+#### [Bicycle](/tags/bicycle)
 <div class="project-sub">
   <img src="/assets/images/projects/bicycle.png" alt="Bicycle Project" class="project-img">
   <div class="project-details">
@@ -93,7 +93,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 
 ## Personal Projects
 
-### [Convex Optimization LP for Fantasy Football/Baseball](/tags/convex-optimization)
+#### [Convex Optimization LP for Fantasy Football/Baseball](/tags/convex-optimization)
 <div class="project-sub">
   <img src="/assets/images/projects/fantasy.png" alt="Fantasy Optimization" class="project-img">
   <div class="project-details">
@@ -101,7 +101,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   </div>
 </div>
 
-### [Motorized Window Blinds](/tags/window-blinds)
+#### [Motorized Window Blinds](/tags/window-blinds)
 <div class="project-sub">
   <img src="/assets/images/projects/blinds.png" alt="Window Blinds" class="project-img">
   <div class="project-details">
@@ -109,7 +109,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   </div>
 </div>
 
-### [Concussion Sensor](/tags/concussion-sensor)
+#### [Concussion Sensor](/tags/concussion-sensor)
 <div class="project-sub">
   <img src="/assets/images/projects/footballhelmet.jpg" alt="Concussion Sensor" class="project-img">
   <div class="project-details">
