@@ -1,6 +1,6 @@
 - title: "Muscle Response Identification for a Motorized Ankle Stretching Device"
   link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
-  img: "/assets/publications/mecc2025.png"
+  img: "/assets/publications/stretching.png"
   authors: "Evan Tulsky, Nicholas Rubino, Victor H. Duenas"
   venue: "Workshop Session at IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2024
@@ -8,7 +8,15 @@
 
 - title: "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"
   link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
-  img: "/assets/publications/ccta2024.png"
+  img: "/assets/images/projects/ankledevice_6-27-2024.png"
+  authors: "Evan Tulsky"
+  venue: "ESC Research Day"
+  year: 2024
+  tag: "BSC Lab at SU"
+  
+- title: "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"
+  link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
+  img: "/assets/images/projects/ankledevice_6-27-2024.png"
   authors: "Evan Tulsky"
   venue: "IEEE Conference on Control Technology and Applications (CCTA)"
   year: 2024
@@ -24,7 +32,7 @@
 
 - title: "Bifacial Cold Plates for High Powered Servers"
   link: "https://evantulsky.netlify.app/projects/2024/05/14/microsoft-project"
-  img: "/assets/publications/Microsoft2024.png"
+  img: "/assets/images/projects/Microsoft Final Poster (1)-1.png"
   authors: "Evan Tulsky"
   venue: "Poster and Presentation, Syracuse University and Microsoft"
   year: 2024
@@ -32,7 +40,7 @@
 
 - title: "Bifacial Cold Plates for High Powered Servers"
   link: "https://evantulsky.netlify.app/projects/2024/05/14/microsoft-project"
-  img: "/assets/publications/Microsoft2024.png"
+  img: "/assets/images/projects/Microsoft Final Poster (1)-1.png"
   authors: "Evan Tulsky"
   venue: "Presentation, Syracuse University and Microsoft"
   year: 2023
@@ -40,7 +48,7 @@
 
 - title: "EMG Tracking Controller with Integral Anti-Windup Compensation in Motorized FES Cycling Experiments"
   link: "https://evantulsky.netlify.app/papers/2023/03/30/sourcesymposium"
-  img: "/assets/publications/source2023.png"
+  img: "/assets/images/projects/EMG_cycling_poster (4)-1.png"
   authors: "Evan Tulsky"
   venue: "Poster Presentation, SOURCE Symposium, Syracuse University"
   year: 2023
@@ -48,7 +56,7 @@
 
 - title: "Influence of Vibration Stimuli Applied on the Quadriceps Femoris Muscle during Functional Electrical Stimulation Induced Cycling"
   link: "https://evantulsky.netlify.app/papers/2021/09/20/ifess"
-  img: "/assets/publications/ifess2021.png"
+  img: "/assets/images/projects/bicycle.png"
   authors: "Evan Tulsky"
   venue: "Presentation, International Functional Electrical Stimulation Society (IFESS) Conference"
   year: 2022
@@ -56,7 +64,6 @@
 
 - title: "Why are Aspirin and Acetaminophen Dosed Primarily as Solids?"
   link: "https://evantulsky.netlify.app/projects/2019/05/19/science-research"
-  img: "/assets/publications/nokia2019.png"
   authors: "Evan Tulsky"
   venue: "Presentation, Nokia Bell Labs North Jersey Science Fair"
   year: 2019
