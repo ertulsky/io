@@ -59,14 +59,6 @@ main_nav: true
   </div>
 </div>
 
-#### [Computer Vision Two-Link Robot Manipulator](/tags/robot-vision)
-<div class="project-sub">
-  <img src="/assets/images/projects/robot-vision.jpg" alt="Robot Vision" class="project-img">
-  <div class="project-details">
-    <div class="project-meta">Tags: {% assign tags = 'Personal Project, Reinforcement Learning' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'C++, Python' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
-  </div>
-</div>
-
 #### [Motorized Stretching Device](/tags/motorized-stretching-device)
 <div class="project-sub">
   <img src="/assets/images/projects/stretching.png" alt="Motorized Stretching Device" class="project-img">
@@ -92,6 +84,14 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   </div>
 
 ## Personal Projects
+
+#### [Computer Vision Two-Link Robot Manipulator](/tags/robot-vision)
+<div class="project-sub">
+  <img src="/assets/images/projects/robot-vision.jpg" alt="Robot Vision" class="project-img">
+  <div class="project-details">
+    <div class="project-meta">Tags: {% assign tags = 'Personal Project, Reinforcement Learning' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'C++, Python' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
+  </div>
+</div>
 
 #### [Convex Optimization LP for Fantasy Football/Baseball](/tags/convex-optimization)
 <div class="project-sub">
