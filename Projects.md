@@ -18,7 +18,7 @@ main_nav: true
 .project-img {
   width: 150px;
   height: auto;
-  margin-right: 40px;
+  margin-right: 10px;
   border-radius: 6px;
   object-fit: contain;
   flex-shrink: 0;
