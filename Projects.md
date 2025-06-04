@@ -18,6 +18,7 @@ main_nav: true
 .project-img {
   width: 40px;
   height: auto;
+  max-height: 100px;
   margin-right: 10px;
   border-radius: 6px;
   object-fit: contain;
