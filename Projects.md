@@ -11,7 +11,9 @@ main_nav: true
 }
 .project-sub {
   display: flex;
+  {% comment %}
   align-items: flex-start;  /* aligns image to the top of the text block */
+ {% endcomment %}
   margin-bottom: 25px;
 }
 
