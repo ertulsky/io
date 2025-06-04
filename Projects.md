@@ -21,7 +21,7 @@ main_nav: true
   max-height: 200px;
   margin-right: 10px;
   border-radius: 4px;
-  object-fit: contain;
+  object-fit: fill;
   flex-shrink: 0;
   align-self: flex-start;   /* ensures the image aligns to top vertically */
 }
