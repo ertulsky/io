@@ -25,6 +25,7 @@ I am currently a doctoral student specializing in human-robotic systems and cont
 
 ## Education
 
+- **PhD. in Mechanical Engineering**, Syracuse University *(Expected)*
 - **M.Sc. in Mechanical Engineering**, Syracuse University *(Expected)*
 - **B.Sc. in Mechanical Engineering**, Syracuse University, 2024
 
