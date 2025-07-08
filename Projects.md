@@ -54,7 +54,7 @@ main_nav: true
   </div>
 </div>
 
-#### [Motorized Stretching Device](/tags/motorized-stretching-device)
+#### [Motorized Stretching Device](/_posts/project_tags/seateddorsiflexion.md)
 <div class="project-sub">
   <img src="/assets/images/projects/stretching.png" alt="Motorized Stretching Device" class="project-img">
   <div class="project-details">
@@ -62,7 +62,7 @@ main_nav: true
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 
-#### [Ankle Foot Orthosis](/tags/ankle-foot-orthosis)
+#### [Ankle Foot Orthosis](/_posts/project_tags/anklefootorthosis.md)
 <div class="project-sub">
   <img src="/assets/images/projects/ankledevice_6-27-2024.png" alt="Ankle Foot Orthosis" class="project-img">
   <div class="project-details">
@@ -70,7 +70,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 
-#### [Bicycle](/tags/bicycle)
+#### [Bicycle](/_posts/project_tags/bicycle.md)
 <div class="project-sub">
   <img src="/assets/images/projects/bicycle.png" alt="Bicycle Project" class="project-img">
   <div class="project-details">
@@ -80,7 +80,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 
 ## Personal Projects
 
-#### [Computer Vision Two-Link Robot Manipulator](/tags/robot-vision)
+#### [Computer Vision Two-Link Robot Manipulator](/_posts/project_tags/robotmanipulator.md)
 <div class="project-sub">
   <img src="/assets/images/projects/robot-vision.jpg" alt="Robot Vision" class="project-img">
   <div class="project-details">
@@ -88,7 +88,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   </div>
 </div>
 
-#### [Convex Optimization LP for Fantasy Football/Baseball](/tags/convex-optimization)
+#### [Convex Optimization LP for Fantasy Football/Baseball](/_posts/project_tags/fantasyfootball.md)
 <div class="project-sub">
   <img src="/assets/images/projects/fantasy.png" alt="Fantasy Optimization" class="project-img">
   <div class="project-details">
