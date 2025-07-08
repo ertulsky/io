@@ -6,7 +6,9 @@
   <div class="pub-details">
     <a href="{{ include.item.link }}" class="pub-title" target="_blank">{{ include.item.title }}</a>
     <div class="pub-meta">{{ include.item.venue }} (<strong>{{ include.item.year }}</strong>)</div>
-    <div class="pub-authors">{{ include.item.authors }}</div>
+    <div class="pub-authors">
+  		{{ include.item.authors | replace: "Evan Tulsky", "<strong>Evan Tulsky</strong>" | markdownify }}
+		</div>
     {% if include.item.tag %}
       <div class="pub-year-inst">
         {% assign tags = include.item.tag %}
