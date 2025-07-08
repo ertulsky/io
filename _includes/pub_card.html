@@ -1,0 +1,22 @@
+<!-- _includes/pub_card.html -->
+<div class="pub-entry">
+  <a href="{{ include.item.link }}" target="_blank">
+    <img src="{{ include.item.img }}" alt="Image for {{ include.item.title }}" class="pub-thumb">
+  </a>
+  <div class="pub-details">
+    <a href="{{ include.item.link }}" class="pub-title" target="_blank">{{ include.item.title }}</a>
+    <div class="pub-meta">{{ include.item.venue }} (<strong>{{ include.item.year }}</strong>)</div>
+    <div class="pub-authors">{{ include.item.authors }}</div>
+    {% if include.item.tag %}
+      <div class="pub-year-inst">
+        {% assign tags = include.item.tag %}
+        {% if tags contains ',' %}
+          {% assign tags = tags | split: ', ' %}
+        {% endif %}
+        {% for t in tags %}
+          <a href="/tags/{{ t | slugify }}">{{ t }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</div>
