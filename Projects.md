@@ -46,7 +46,15 @@ main_nav: true
 
 ## Rehabilitation Robotics
 
-#### [Gait Phase Detection](/tags/gait-phase-detection)
+#### [MRI](/tags/gait-phase-detection)
+<div class="project-sub">
+  <img src="/assets/images/projects/MRI.jpg" alt="Gait Phase Detection" class="project-img">
+  <div class="project-details">
+    <div class="project-meta">Tags: {% assign tags = 'Kessler Foundation, Reinforcement Learning' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
+  </div>
+</div>
+
+#### [MRI](/tags/gait-phase-detection)
 <div class="project-sub">
   <img src="/assets/images/projects/MRI.jpg" alt="Gait Phase Detection" class="project-img">
   <div class="project-details">
