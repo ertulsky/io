@@ -53,6 +53,16 @@ main_nav: true
   font-size: 0.9em;
   color: #666;
 }
+
+.pub-year-inst a {
+  margin-right: 6px;
+  text-decoration: none;
+  color: #666;
+}
+
+.pub-year-inst a:hover {
+  text-decoration: underline;
+}
 </style>
 
 ## Journal Publications
@@ -68,8 +78,26 @@ main_nav: true
   <div class="pub-details">
     <a href="{{ pub.link }}" class="pub-title" target="_blank">{{ pub.title }}</a>
     <div class="pub-meta">{{ pub.venue }} (<strong>{{ pub.year }}</strong>)</div>
-    <div class="pub-authors">{{ pub.authors }}</div>
-    <div class="pub-year-inst"><a href="/tags/bsc-lab-at-su">BSC Lab at SU</a></div>
+    <div class="pub-authors">
+      {{ pub.authors | replace: "Evan Tulsky", "<strong>Evan Tulsky</strong>" | markdownify }}
+    </div>
+    <div class="pub-year-inst">
+      {% if pub.tag %}
+        {% assign tags = pub.tag %}
+        {% if tags == nil %}
+          <!-- no tags -->
+        {% elsif tags == '' %}
+          <!-- empty string no tags -->
+        {% elsif tags contains ',' %}
+          {% assign tags = tags | split: ',' %}
+        {% endif %}
+        {% for t in tags %}
+          <a href="/tags/{{ t | slugify }}">{{ t | strip }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      {% else %}
+        <a href="/tags/bsc-lab-at-su">BSC Lab at SU</a>
+      {% endif %}
+    </div>
   </div>
 </div>
 {% endfor %}
@@ -85,8 +113,10 @@ main_nav: true
       Targeting the Soleus and Quadriceps Muscles Using Powered Robotic Rehabilitation Devices and Neuromuscular Control
     </a>
     <div class="pub-meta">Honors Thesis (<strong>2024</strong>)</div>
-    <div class="pub-authors">Evan Tulsky</div>
-    <div class="pub-year-inst"><a href="/tags/bsc-lab-at-su">BSC Lab at SU</a></div>
+    <div class="pub-authors"><strong>Evan Tulsky</strong></div>
+    <div class="pub-year-inst">
+      <a href="/tags/bsc-lab-at-su">BSC Lab at SU</a>
+    </div>
   </div>
 </div>
 
@@ -100,9 +130,19 @@ main_nav: true
   <div class="pub-details">
     <a href="{{ pres.link }}" class="pub-title" target="_blank">{{ pres.title }}</a>
     <div class="pub-meta">{{ pres.venue }} (<strong>{{ pres.year }}</strong>)</div>
-    <div class="pub-authors">{{ pres.authors }}</div>
+    <div class="pub-authors">
+      {{ pres.authors | replace: "Evan Tulsky", "<strong>Evan Tulsky</strong>" | markdownify }}
+    </div>
     {% if pres.tag %}
-    <div class="pub-year-inst"><a href="/tags/{{ pres.tag | slugify }}">{{ pres.tag }}</a></div>
+    <div class="pub-year-inst">
+      {% assign pres_tags = pres.tag %}
+      {% if pres_tags contains ',' %}
+        {% assign pres_tags = pres_tags | split: ',' %}
+      {% endif %}
+      {% for t in pres_tags %}
+        <a href="/tags/{{ t | slugify }}">{{ t | strip }}</a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </div>
     {% endif %}
   </div>
 </div>
