@@ -62,7 +62,6 @@ main_nav: true
   </div>
 </div>
 
-https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta
 #### [Motorized Stretching Device](/projects/seateddorsiflexion/)
 <div class="project-sub">
   <img src="/assets/images/projects/stretching.png" alt="Motorized Stretching Device" class="project-img">
@@ -97,7 +96,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   </div>
 </div>
 
-#### [Convex Optimization LP for Fantasy Football/Baseball](/2025/06/08/fantasyprogram/)
+#### [Convex Optimization LP for Fantasy Football/Baseball](/convex-optimization-lp-and-ml-rankings-for-fantasy-football/)
 <div class="project-sub">
   <img src="/assets/images/projects/fantasy.png" alt="Fantasy Optimization" class="project-img">
   <div class="project-details">
