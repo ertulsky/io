@@ -12,6 +12,6 @@ For the purpose of protected equipment, supplementary images are omitted. As a n
 <h3>Accomplishments</h3>
 <ul>
   <li>Participated in various cross-departmental activities, training, and exercises. Developed knowledge of nuclear plant operations, nuclear industry standards, and clean energy initiatives.</li>
-  <li>Led and prepared two change modifications apart of the operational fleet initiative that will be implemented during the 2024 outage.</li>
+  <li>Led and prepared two change modifications apart of the operational fleet initiative that have been implemented during the 2024 outage.</li>
   <li>Performed quality control tasks on nearly 200 engineering change requests. </li>
 </ul>
