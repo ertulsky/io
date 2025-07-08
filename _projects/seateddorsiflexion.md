@@ -14,7 +14,7 @@ Victor H. Duenas (PI)
 
 ## Related Publications
 
-{% assign filtered_pubs = site.data.publications | where_exp: "pub", "pub.tag contains 'Seated Dorsiflexions'" %}
+{% assign filtered_pubs = site.data.publications | where: "tag", "Seated Dorsiflexions" %}
 
 {% for pub in filtered_pubs %}
 <div class="pub-entry">
