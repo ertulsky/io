@@ -89,7 +89,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 
 ## Personal Projects
 
-#### [Computer Vision Two-Link Robot Manipulator](/_posts/project_tags/robotmanipulator.md)
+#### [Computer Vision Two-Link Robot Manipulator](/2025/07/08/2linkrobot/)
 <div class="project-sub">
   <img src="/assets/images/projects/robot-vision.jpg" alt="Robot Vision" class="project-img">
   <div class="project-details">
@@ -97,7 +97,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   </div>
 </div>
 
-#### [Convex Optimization LP for Fantasy Football/Baseball](/_posts/project_tags/fantasyfootball.md)
+#### [Convex Optimization LP for Fantasy Football/Baseball](/2025/06/08/fantasyprogram/)
 <div class="project-sub">
   <img src="/assets/images/projects/fantasy.png" alt="Fantasy Optimization" class="project-img">
   <div class="project-details">
@@ -105,7 +105,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   </div>
 </div>
 
-#### [Motorized Window Blinds](/tags/window-blinds)
+#### [Motorized Window Blinds](/2024/05/14/motorized-blinds/)
 <div class="project-sub">
   <img src="/assets/images/projects/blinds.png" alt="Window Blinds" class="project-img">
   <div class="project-details">
@@ -113,7 +113,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   </div>
 </div>
 
-#### [Concussion Sensor](/tags/concussion-sensor)
+#### [Concussion Sensor](/2020/06/10/concussion-sensor/)
 <div class="project-sub">
   <img src="/assets/images/projects/footballhelmet.jpg" alt="Concussion Sensor" class="project-img">
   <div class="project-details">
