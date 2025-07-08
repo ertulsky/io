@@ -5,6 +5,7 @@ date:   2025-06-8T14:25:52-05:00
 author: Evan Tulsky
 categories: Projects
 tags: Sports Analytics
+permalink: /posts/fantasyfootball/
 ---
 <h3 id="Paragraph">"Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"</h3>
 
