@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Computer Vison Robot Manipulator"
+title:  "2-Link Robot Manipulator"
 date:   2025-07-8T14:25:52-05:00
 author: Evan Tulsky
 categories: Projects
