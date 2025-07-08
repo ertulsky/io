@@ -7,8 +7,7 @@ permalink: /projects/seateddorsiflexion/
 # Motorized Stretching Device
 
 ## Collaborators
-Nicholas A. Rubino
-Victor H. Duenas (PI)
+Nicholas A. Rubino, Dr. Aiko Thompson, Dr. Victor H. Duenas (PI)
 
 ## Publications
 
