@@ -4,7 +4,9 @@
   authors: "N. Rubino, Evan Tulsky, A. K. Thompson, V. H. Duenas"
   venue: "IEEE Modeling, Estimation, and Control Conference (MECC), In Acceptance"
   year: 2025
-  tag: "BSC Lab at SU, Seated Dorsiflexions"
+  tag:
+    - BSC Lab at SU
+    - Seated Dorsiflexions
 
 - title: "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"
   link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
