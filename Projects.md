@@ -71,7 +71,7 @@ https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 
-#### [Ankle Foot Orthosis](/project_tags/anklefootorthosis)
+#### [Ankle Foot Orthosis](/projects/anklefootorthosis)
 <div class="project-sub">
   <img src="/assets/images/projects/ankledevice_6-27-2024.png" alt="Ankle Foot Orthosis" class="project-img">
   <div class="project-details">
@@ -79,7 +79,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 
-#### [Bicycle](/_posts/project_tags/bicycle.md)
+#### [Bicycle](/projects/bicycle/)
 <div class="project-sub">
   <img src="/assets/images/projects/bicycle.png" alt="Bicycle Project" class="project-img">
   <div class="project-details">
