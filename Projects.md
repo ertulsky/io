@@ -15,10 +15,10 @@ main_nav: true
 }
 
 .project-img {
-  width: 60px;
+  width: 80px;
   height: auto;
   max-height: 100px;
-  margin-right: 20px;
+  margin-right: 40px;
   border-radius: 4px;
   object-fit: contain;
 }
