@@ -116,9 +116,11 @@ protocols:
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
 
-permalink: /:title/
 
 collections:
+  posts:
+    output: true
+    
   projects:
     output: true
     permalink: /projects/:name/
