@@ -62,7 +62,8 @@ main_nav: true
   </div>
 </div>
 
-#### [Motorized Stretching Device](/_posts/project_tags/seateddorsiflexion)
+https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta
+#### [Motorized Stretching Device]("https://evantulsky.netlify.app/_posts/project_tags/seateddorsiflexion")
 <div class="project-sub">
   <img src="/assets/images/projects/stretching.png" alt="Motorized Stretching Device" class="project-img">
   <div class="project-details">
