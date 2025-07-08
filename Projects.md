@@ -62,7 +62,7 @@ main_nav: true
   </div>
 </div>
 
-#### [Motorized Stretching Device](/_posts/project_tags/seateddorsiflexion.md)
+#### [Motorized Stretching Device](/_posts/project_tags/seateddorsiflexion)
 <div class="project-sub">
   <img src="/assets/images/projects/stretching.png" alt="Motorized Stretching Device" class="project-img">
   <div class="project-details">
