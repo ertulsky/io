@@ -5,6 +5,7 @@ date:   2025-07-8T14:25:52-05:00
 author: Evan Tulsky
 categories: Projects
 tags: Robotics
+permalink: /posts/robotarm/
 ---
 <h3 id="Paragraph">"Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"</h3>
 
