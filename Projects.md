@@ -89,7 +89,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 
 ## Personal Projects
 
-#### [Computer Vision Two-Link Robot Manipulator](/2025/07/08/2linkrobot/)
+#### [Computer Vision Two-Link Robot Manipulator](/2-link-robot-manipulator/)
 <div class="project-sub">
   <img src="/assets/images/projects/robot-vision.jpg" alt="Robot Vision" class="project-img">
   <div class="project-details">
@@ -113,7 +113,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
   </div>
 </div>
 
-#### [Concussion Sensor](/2020/06/10/concussion-sensor/)
+#### [Concussion Sensor](/concussion-sensor/)
 <div class="project-sub">
   <img src="/assets/images/projects/footballhelmet.jpg" alt="Concussion Sensor" class="project-img">
   <div class="project-details">
