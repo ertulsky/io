@@ -8,7 +8,7 @@ permalink: /projects/motorizedbicycle/
 <img src="/assets/images/projects/bicycle.png" alt="Motorized Bicycle" class="project-img">
 
 ## Collaborators
-Nicholas A. Rubino, Dr. Jonathan Casas, Dr. Cheng-Hao Chang, Dr. Victor H. Duenas (PI)
+Nicholas A. Rubino, Dr. Jonathan Casas, Dr. Cheng-Hao Chang, Dr. Steven Brose, Dr. Victor H. Duenas (PI)
 
 ### Related Publications
 
