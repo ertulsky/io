@@ -5,7 +5,7 @@ permalink: /projects/anklefootorthosis/
 ---
 
 ## Device
-<img src="/assets/images/projects/stretching.png" alt="Motorized Stretching Device" class="project-img">
+<img src="/assets/images/projects/ankledevice_6-27-2024.png" alt="Motorized Stretching Device" class="project-img">
 
 ## Collaborators
 Nicholas A. Rubino, Dr. Aiko Thompson, Dr. Victor H. Duenas (PI)
