@@ -4,7 +4,9 @@
   authors: "Evan Tulsky, Nicholas Rubino, Victor H. Duenas"
   venue: "Workshop Session at IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2024
-  tag: "BSC Lab at SU"
+  tag:
+    - BSC Lab at SU
+    - Seated Dorsiflexion
 
 - title: "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"
   link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
@@ -12,15 +14,19 @@
   authors: "Evan Tulsky"
   venue: "ESC Research Day"
   year: 2024
-  tag: "BSC Lab at SU"
-  
+  tag:
+    - BSC Lab at SU
+    - Ankle Foot Orthosis
+
 - title: "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"
   link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
   img: "/assets/images/projects/ankledevice_6-27-2024.png"
   authors: "Evan Tulsky"
   venue: "IEEE Conference on Control Technology and Applications (CCTA)"
   year: 2024
-  tag: "BSC Lab at SU"
+  tag:
+    - BSC Lab at SU
+    - Ankle Foot Orthosis
 
 - title: "Targeting the Soleus and Quadriceps Muscles Using Powered Robotic Rehabilitation Devices and Neuromuscular Control"
   link: "https://evantulsky.netlify.app/papers/awards/2024/05/20/thesis"
@@ -28,7 +34,10 @@
   authors: "Evan Tulsky"
   venue: "Thesis Presentation, Syracuse University"
   year: 2024
-  tag: "BSC Lab at SU"
+  tag:
+    - BSC Lab at SU
+    - Seated Dorsiflexion
+    - Ankle Foot Orthosis
 
 - title: "Bifacial Cold Plates for High Powered Servers"
   link: "https://evantulsky.netlify.app/projects/2024/05/14/microsoft-project"
@@ -36,7 +45,8 @@
   authors: "Evan Tulsky, Matthew McFarlane, Jeremy Kang, Shalabh Maroo"
   venue: "Poster and Presentation, Syracuse University and Microsoft"
   year: 2024
-  tag: "Microsoft"
+  tag:
+    - Microsoft
 
 - title: "Bifacial Cold Plates for High Powered Servers"
   link: "https://evantulsky.netlify.app/projects/2024/05/14/microsoft-project"
@@ -44,7 +54,8 @@
   authors: "Evan Tulsky, Matthew McFarlane, Jeremy Kang, Shalabh Maroo"
   venue: "Presentation, Syracuse University and Microsoft"
   year: 2023
-  tag: "Microsoft"
+  tag:
+    - Microsoft
 
 - title: "EMG Tracking Controller with Integral Anti-Windup Compensation in Motorized FES Cycling Experiments"
   link: "https://evantulsky.netlify.app/papers/2023/03/30/sourcesymposium"
@@ -52,7 +63,9 @@
   authors: "Evan Tulsky"
   venue: "Poster Presentation, SOURCE Symposium, Syracuse University"
   year: 2023
-  tag: "BSC Lab at SU"
+  tag:
+    - BSC Lab at SU
+    - Seated Dorsiflexion
 
 - title: "Influence of Vibration Stimuli Applied on the Quadriceps Femoris Muscle during Functional Electrical Stimulation Induced Cycling"
   link: "https://evantulsky.netlify.app/papers/2021/09/20/ifess"
@@ -60,11 +73,13 @@
   authors: "Evan Tulsky"
   venue: "Presentation, International Functional Electrical Stimulation Society (IFESS) Conference"
   year: 2022
-  tag: "BSC Lab at SU"
+  tag:
+    - BSC Lab at SU
+    - Bicycle
 
 - title: "Why are Aspirin and Acetaminophen Dosed Primarily as Solids?"
   link: "https://evantulsky.netlify.app/projects/2019/05/19/science-research"
   authors: "Evan Tulsky"
   venue: "Presentation, Nokia Bell Labs North Jersey Science Fair"
   year: 2019
-  tag: ""
+  tag: []
