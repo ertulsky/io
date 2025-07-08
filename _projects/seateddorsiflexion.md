@@ -11,7 +11,7 @@ Nicholas A. Rubino, Dr. Aiko Thompson, Dr. Victor H. Duenas (PI)
 
 ## Related Publications
 
-{% assign filtered_pubs = site.data.publications | where: "tag", "Seated Dorsiflexions" %}
+{% assign filtered_pubs = site.data.publications | where: "tag", "Seated Dorsiflexion" %}
 
 {% for pub in filtered_pubs %}
   {% include pub_card.html item=pub %}
