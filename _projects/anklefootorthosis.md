@@ -21,7 +21,7 @@ Nicholas A. Rubino, Jade Carter, Dr. Aiko Thompson, Dr. Victor H. Duenas (PI)
 ### Related Presentations
 
 {% for pres in site.data.presentations %}
-  {% if pres.tag contains "Seated Dorsiflexion" %}
+  {% if pres.tag contains "Ankle Foot Orthosis" %}
     {% include pub_card.html item=pres %}
   {% endif %}
 {% endfor %}
