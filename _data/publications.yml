@@ -6,7 +6,7 @@
   year: 2025
   tag:
     - BSC Lab at SU
-    - Seated Dorsiflexions
+    - Seated Dorsiflexion
 
 - title: "Extremum Seeking Control of a Robotic Ankle-Foot Orthosis Targeting the Soleus Muscle Activation During Walking"
   link: "https://evantulsky.netlify.app/papers/2024/08/21/ieee-ccta"
@@ -14,12 +14,16 @@
   authors: "Evan Tulsky, N. Rubino, J. Carter, A. K. Thompson, V. H. Duenas"
   venue: "IEEE Conference on Control Technology and Applications (CCTA)"
   year: 2024
-  tag: "BSC Lab at SU"
+  tag:
+    - BSC Lab at SU
+    - Ankle Foot Orthosis
 
-- title: "Influence of vibration stimuli applied on the quadriceps femoris muscles during functional electrical stimulation induced cycling"
+- title: "Influence of Vibration Stimuli Applied on the Quadriceps Femoris Muscle during Functional Electrical Stimulation Induced Cycling"
   link: "https://evantulsky.netlify.app/papers/2021/09/20/ifess"
   img: "/assets/images/projects/bicycle.png"
   authors: "Evan Tulsky, J. Casas, C. Chang, S. Brose, V. H. Duenas"
   venue: "Artificial Organs, Vol. 46, No. 3, E77–E81"
   year: 2022
-  tag: "BSC Lab at SU"
+  tag:
+    - BSC Lab at SU
+    - Bicycle
