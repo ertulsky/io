@@ -52,9 +52,9 @@ main_nav: true
   </div>
 </div>
 
-#### [MRI](/posts/MRIexperiments/)
+#### [MRI](/posts/MRI/)
 <div class="project-sub">
-  <img src="/assets/images/projects/MRI.jpg" alt="Gait Phase Detection" class="project-img">
+  <img src="/assets/images/projects/MRI.jpg" alt="mfMRI" class="project-img">
   <div class="project-details">
     <div class="project-meta">Tags: {% assign tags = 'Kessler Foundation, Reinforcement Learning' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
@@ -77,7 +77,7 @@ Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% f
 Tags: {% assign tags = 'BSC Lab at SU, Model-Based Control' | split: ', ' %}{% for tag in tags %}<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}<br>Language: {% assign langs = 'Matlab' | split: ', ' %}{% for lang in langs %}<a href="/tags/{{ lang | slugify }}">{{ lang }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
   </div>
 
-#### [Bicycle](/projects/bicycle/)
+#### [Bicycle](/projects/motorizedbicycle/)
 <div class="project-sub">
   <img src="/assets/images/projects/bicycle.png" alt="Bicycle Project" class="project-img">
   <div class="project-details">
